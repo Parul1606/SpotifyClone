@@ -1,4 +1,5 @@
 Spotify Clone
+<br>
 This project is a simple Spotify clone created using HTML, CSS, and JavaScript. It allows users to explore and play music, manage playlists, and enjoy a basic music streaming experience.
 
 Features:
