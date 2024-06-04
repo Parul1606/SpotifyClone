@@ -1,11 +1,9 @@
 Spotify Clone
 <br>
-This project is a simple Spotify clone created using HTML, CSS, and JavaScript. It allows users to explore and play music, manage playlists, and enjoy a basic music streaming experience.
+This project is a simple Spotify clone created using HTML, CSS, and JavaScript. It allows users to explore and play music, and enjoy a basic music streaming experience.
 
 Features:
-Browse and search for your favorite songs.
-Play music tracks with play, pause, and skip functionality.
-Create and manage playlists.
+Play music tracks with play, pause functionality.
 Responsive design for a seamless user experience on various devices.
 
 Technologies Used:
