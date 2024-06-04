@@ -20,3 +20,4 @@ Getting Started:
 Usage:
 Click on a song to play it.
 Enjoy a basic music streaming experience.
+![image](https://github.com/Parul1606/SpotifyClone/assets/80768852/94c66a89-d902-4122-a0af-1685607d0941)
